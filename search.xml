@@ -23,32 +23,6 @@
     
     
     <entry>
-      <title>测试</title>
-      <link href="2020/12/25/test1/"/>
-      <url>2020/12/25/test1/</url>
-      
-        <content type="html"><![CDATA[<p>123</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="2020/12/25/vue/"/>
-      <url>2020/12/25/vue/</url>
-      
-        <content type="html"><![CDATA[<h4 id="计算属性-监听属性-方法"><a href="#计算属性-监听属性-方法" class="headerlink" title="计算属性 监听属性 方法"></a>计算属性 监听属性 方法</h4><h5 id="方法-methods："><a href="#方法-methods：" class="headerlink" title="方法 methods："></a>方法 methods：</h5><p>您可以使用methods对DOM中发生的事件做出反应，也可以从组件中的其他位置调用它们。</p><h5 id="计算属性-computed"><a href="#计算属性-computed" class="headerlink" title="计算属性 computed"></a>计算属性 computed</h5><p>计算属性允许我们定义一个与数据使用相同方式的属性，但也可以有一些基于其依赖关系的自定义逻辑。对一些动态的数据进行计算 </p><p>重要特点  输出缓存 不会重复计算  提升处理性能。</p><h5 id="监听属性watch"><a href="#监听属性watch" class="headerlink" title="监听属性watch"></a>监听属性watch</h5><p>监听数据的变化 当数据变化时触发  一个函数 里面有两个参数 一个新值一个旧值</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>test</title>
       <link href="2020/12/25/test/"/>
       <url>2020/12/25/test/</url>
